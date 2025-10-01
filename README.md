@@ -20,6 +20,11 @@
 - *Galactic Acres* – Sci-Fi RPG  
 - *Horse Racing Champion* – Simulation Game
 
+📫 How to reach me:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/nadeem-shahzad-271637136)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green)](https://nadeem-shahzad.site)
+
+
  [Upwork Profile](https://www.upwork.com/freelancers/nadeemshahzad)
 
 
