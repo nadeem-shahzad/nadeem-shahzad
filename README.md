@@ -1,10 +1,10 @@
-<!-- Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Nadeem%20Shahzad%20🎮&fontSize=45&fontAlignY=35&desc=Unity%20Game%20Developer%20|%20Gameplay%20%26%20Multiplayer&descAlignY=55&descAlign=50)
+<!-- Game Dev Header -->
+![Header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:8E2DE2,100:4A00E0&text=Nadeem%20Shahzad%20🎮&fontSize=42&fontAlignY=35&fontAlign=50&animation=twinkling&desc=Unity%20Game%20Developer&descAlign=50&descAlignY=55)
 
-## 🎮 About Me  
+## 👋 About Me  
 
-👋 Hi, I’m **Nadeem Shahzad**  
-🕹 Unity Game Developer with **6+ years** of experience crafting games for **Mobile, PC & Console**.  
+Hi, I’m **Nadeem Shahzad**  
+🎮 Unity Game Developer with **6+ years** of experience crafting games for **Mobile, PC & Console**.  
 ⚡ I love building **gameplay mechanics, multiplayer systems, AI, shaders & performance-optimized tools**.  
 🌍 Open to collaborations on **exciting, fun & technically challenging games**.  
 📫 Reach me: **nadeem.shahzad@nplays.tech**
@@ -14,7 +14,7 @@
 ## 🛠 Game Dev Toolbox  
 
 ![Unity](https://img.shields.io/badge/Unity-Game%20Engine-black?style=for-the-badge&logo=unity)  
-![C#](https://img.shields.io/badge/C%23-Game%20Programming-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-Programming-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
 ![Photon](https://img.shields.io/badge/Photon-Multiplayer-blue?style=for-the-badge)  
 ![Mirror](https://img.shields.io/badge/Mirror-Networking-orange?style=for-the-badge)  
 ![ShaderGraph](https://img.shields.io/badge/ShaderGraph-Visual%20FX-purple?style=for-the-badge&logo=unity)  
@@ -46,7 +46,7 @@
 
 ---
 
-## 🎯 Connect with Me  
+## 🌍 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-GameDev%20Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nadeem-shahzad-271637136)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge)](https://nadeem-shahzad.site)  
