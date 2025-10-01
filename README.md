@@ -1,4 +1,5 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:06beb6,100:48b1bf&height=200&section=header&text=Nadeem%20Shahzad&fontSize=42&fontAlignY=35&animation=fadeIn&desc=🎮%20Unity%20Game%20Developer&descAlignY=55&descAlign=50)
+<!-- Header -->
+![Header](https://capsule-render.vercel.app/api?type=transparent&fontColor=00ffcc&text=Nadeem%20Shahzad%20🎮&height=150&fontSize=45&desc=Unity%20Game%20Developer&descAlignY=75&descAlign=50)
 
 ## 👋 About Me  
 
@@ -62,5 +63,6 @@ Hi, I’m **Nadeem Shahzad**
 ---
 
 <!-- Footer -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:48b1bf,100:06beb6&height=120&section=footer&text=👾%20Let’s%20Build%20Fun%20Worlds!&fontSize=20)
+![Footer](https://capsule-render.vercel.app/api?type=transparent&fontColor=ff6b6b&height=80&section=footer&text=Game%20On%20🚀&fontSize=24)
+
 
