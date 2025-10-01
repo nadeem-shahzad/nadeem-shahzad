@@ -13,13 +13,13 @@ Hi, I’m **Nadeem Shahzad**
 
 ## 🛠 Game Dev Toolbox  
 
-![Unity](https://img.shields.io/badge/Unity-Game%20Engine-black?style=for-the-badge&logo=unity)  
-![C#](https://img.shields.io/badge/C%23-Programming-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
-![Photon](https://img.shields.io/badge/Photon-Multiplayer-blue?style=for-the-badge)  
-![Mirror](https://img.shields.io/badge/Mirror-Networking-orange?style=for-the-badge)  
-![ShaderGraph](https://img.shields.io/badge/ShaderGraph-Visual%20FX-purple?style=for-the-badge&logo=unity)  
-![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Game Design](https://img.shields.io/badge/Game-Design-FF5733?style=for-the-badge)  
+![Unity](https://img.shields.io/badge/Unity-Game%20Engine-black?style=for-the-badge&logo=unity) 
+![C#](https://img.shields.io/badge/C%23-Programming-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![Photon](https://img.shields.io/badge/Photon-Multiplayer-blue?style=for-the-badge) 
+![Mirror](https://img.shields.io/badge/Mirror-Networking-orange?style=for-the-badge) 
+![ShaderGraph](https://img.shields.io/badge/ShaderGraph-Visual%20FX-purple?style=for-the-badge&logo=unity) 
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![Game Design](https://img.shields.io/badge/Game-Design-FF5733?style=for-the-badge) 
 
 ---
 
