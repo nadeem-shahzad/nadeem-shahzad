@@ -49,9 +49,9 @@ Hi, I’m **Nadeem Shahzad**
 
 ## 🌍 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-GameDev%20Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nadeem-shahzad-271637136)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge)](https://nadeem-shahzad.site)  
-[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/nadeemshahzad)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-GameDev%20Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/nadeem-shahzad-271637136) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge)](https://nadeem-shahzad.site) 
+[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/nadeemshahzad) 
 
 ---
 
